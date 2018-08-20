@@ -35,10 +35,10 @@ public class Connection {
                 System.out.println("connection error");
             }
             finally {
-
+                return
+                        exitstr;
             }
-            return
-                    exitstr;
+
         }
     }
 

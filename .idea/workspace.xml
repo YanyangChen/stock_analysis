@@ -6,7 +6,377 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0001.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0001.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0007.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0007.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0016.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0016.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0020.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0020.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0033.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0033.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0035.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0035.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0037.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0037.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0043.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0043.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0046.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0046.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0051.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0051.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0052.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0052.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0059.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0059.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0072.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0072.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0079.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0079.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0080.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0080.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0085.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0085.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0088.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0088.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0093.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0093.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0104.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0104.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0108.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0108.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0113.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0113.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0126.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0126.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0128.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0128.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0132.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0132.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0135.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0135.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0139.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0139.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0144.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0144.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0158.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0158.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0161.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0161.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0163.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0163.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0165.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0165.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0171.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0171.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0174.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0174.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0177.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0177.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0179.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0179.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0180.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0180.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0184.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0184.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0198.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0198.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0207.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0207.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0208.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0208.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0209.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0209.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0210.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0210.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0222.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0222.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0229.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0229.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0231.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0231.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0235.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0235.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0251.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0251.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0264.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0264.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0265.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0265.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0270.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0270.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0276.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0276.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0282.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0282.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0285.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0285.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0289.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0289.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0315.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0315.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0316.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0316.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0339.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0339.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0340.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0340.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0364.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0364.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0366.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0366.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0367.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0367.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0371.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0371.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0372.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0372.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0373.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0373.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0376.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0376.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0388.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0388.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0398.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0398.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0400.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0400.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0406.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0406.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0412.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0412.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0420.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0420.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0423.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0423.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0433.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0433.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0460.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0460.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0464.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0464.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0467.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0467.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0468.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0468.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0479.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0479.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0487.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0487.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0494.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0494.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0496.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0496.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0497.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0497.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0503.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0503.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0506.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0506.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0510.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0510.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0511.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0511.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0517.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0517.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0518.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0518.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0524.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0524.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0525.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0525.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0531.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0531.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0533.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0533.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0540.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0540.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0563.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0563.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0567.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0567.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0571.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0571.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0580.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0580.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0583.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0583.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0585.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0585.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0586.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0586.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0595.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0595.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0603.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0603.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0604.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0604.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0607.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0607.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0610.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0610.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0616.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0616.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0617.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0617.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0622.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0622.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0641.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0641.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0643.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0643.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0657.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0657.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0662.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0662.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0666.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0666.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0669.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0669.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0683.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0683.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0701.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0701.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0703.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0703.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0707.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0707.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0719.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0719.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0723.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0723.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0724.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0724.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0726.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0726.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0727.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0727.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0732.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0732.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0735.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0735.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0745.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0745.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0747.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0747.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0750.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0750.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0759.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0759.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0763.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0763.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0778.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0778.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0787.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0787.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0813.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0813.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0814.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0814.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0815.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0815.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0818.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0818.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0819.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0819.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0821.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0821.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0825.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0825.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0826.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0826.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0829.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0829.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0836.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0836.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0839.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0839.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0845.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0845.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0851.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0851.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0856.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0856.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0859.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0859.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0861.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0861.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0863.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0863.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0864.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0864.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0869.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0869.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0882.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0882.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0894.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0894.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0900.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0900.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0906.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0906.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0908.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0908.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0914.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0914.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0921.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0921.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0922.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0922.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0925.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0925.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0953.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0953.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0956.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0956.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0969.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0969.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0979.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0979.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0983.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0983.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0986.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0986.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0992.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0992.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/0999.HK.xls" afterPath="$PROJECT_DIR$/HKstks/0999.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1020.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1020.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1037.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1037.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1043.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1043.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1053.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1053.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1055.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1055.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1059.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1059.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1063.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1063.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1064.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1064.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1066.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1066.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1090.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1090.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1104.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1104.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1106.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1106.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1118.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1118.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1123.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1123.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1126.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1126.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1130.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1130.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1135.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1135.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1181.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1181.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1191.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1191.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1192.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1192.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1193.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1193.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1200.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1200.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1218.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1218.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1219.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1219.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1224.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1224.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1227.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1227.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1234.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1234.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1239.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1239.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1246.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1246.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1247.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1247.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1249.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1249.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1250.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1250.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1259.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1259.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1273.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1273.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1288.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1288.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1290.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1290.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1296.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1296.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1298.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1298.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1300.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1300.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1308.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1308.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1310.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1310.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1315.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1315.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1323.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1323.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1335.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1335.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1338.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1338.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1363.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1363.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1369.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1369.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1378.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1378.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1382.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1382.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1396.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1396.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1428.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1428.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1431.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1431.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1439.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1439.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1446.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1446.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1452.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1452.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1528.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1528.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1533.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1533.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1561.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1561.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1639.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1639.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1663.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1663.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1668.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1668.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1678.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1678.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1681.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1681.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1685.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1685.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1700.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1700.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1717.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1717.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1788.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1788.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1811.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1811.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1818.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1818.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1830.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1830.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1831.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1831.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1858.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1858.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1866.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1866.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1882.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1882.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1883.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1883.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1884.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1884.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1888.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1888.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1928.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1928.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1958.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1958.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1963.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1963.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1966.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1966.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1972.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1972.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1986.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1986.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1993.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1993.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/1999.HK.xls" afterPath="$PROJECT_DIR$/HKstks/1999.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2010.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2010.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2014.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2014.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2018.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2018.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2080.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2080.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2098.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2098.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2112.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2112.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2138.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2138.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2183.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2183.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2193.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2193.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2202.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2202.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2208.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2208.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2211.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2211.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2268.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2268.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2300.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2300.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2313.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2313.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2327.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2327.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2333.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2333.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2349.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2349.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2355.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2355.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2358.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2358.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2380.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2380.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2389.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2389.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2393.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2393.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2399.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2399.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2669.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2669.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2699.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2699.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2805.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2805.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2824.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2824.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2877.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2877.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2882.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2882.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2886.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2886.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2899.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2899.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2936.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2936.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/2937.HK.xls" afterPath="$PROJECT_DIR$/HKstks/2937.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3019.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3019.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3041.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3041.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3048.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3048.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3055.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3055.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3056.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3056.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3060.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3060.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3064.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3064.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3065.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3065.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3066.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3066.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3070.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3070.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3075.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3075.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3076.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3076.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3078.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3078.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3082.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3082.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3086.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3086.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3145.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3145.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3165.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3165.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3301.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3301.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3318.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3318.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3339.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3339.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3396.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3396.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3606.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3606.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3608.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3608.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3663.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3663.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3683.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3683.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3737.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3737.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3800.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3800.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3833.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3833.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3836.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3836.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3866.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3866.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3882.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3882.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3889.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3889.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3939.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3939.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3966.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3966.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3968.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3968.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/3989.HK.xls" afterPath="$PROJECT_DIR$/HKstks/3989.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/6830.HK.xls" afterPath="$PROJECT_DIR$/HKstks/6830.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/6865.HK.xls" afterPath="$PROJECT_DIR$/HKstks/6865.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8006.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8006.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8007.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8007.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8009.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8009.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8026.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8026.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8041.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8041.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8046.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8046.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8048.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8048.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8090.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8090.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8106.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8106.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8109.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8109.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8115.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8115.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8131.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8131.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8137.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8137.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8147.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8147.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8155.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8155.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8159.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8159.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8162.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8162.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8163.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8163.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8175.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8175.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8189.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8189.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8193.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8193.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8197.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8197.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8205.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8205.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8212.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8212.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8218.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8218.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8222.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8222.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8228.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8228.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8237.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8237.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8247.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8247.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8256.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8256.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8295.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8295.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8307.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8307.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8310.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8310.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8363.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8363.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/8379.HK.xls" afterPath="$PROJECT_DIR$/HKstks/8379.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/HKstks/87001.HK.xls" afterPath="$PROJECT_DIR$/HKstks/87001.HK.xls" />
+      <change beforePath="$PROJECT_DIR$/out/production/Analytica/sample/Connection.class" afterPath="$PROJECT_DIR$/out/production/Analytica/sample/Connection.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Analytica/sample/Controller2.class" afterPath="$PROJECT_DIR$/out/production/Analytica/sample/Controller2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Analytica/sample/Stock.class" afterPath="$PROJECT_DIR$/out/production/Analytica/sample/Stock.class" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Connection.java" afterPath="$PROJECT_DIR$/src/sample/Connection.java" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Controller2.java" afterPath="$PROJECT_DIR$/src/sample/Controller2.java" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Stock.java" afterPath="$PROJECT_DIR$/src/sample/Stock.java" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,8 +441,8 @@
       <file leaf-file-name="Controller2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/Controller2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="332" column="35" lean-forward="true" selection-start-line="332" selection-start-column="35" selection-end-line="332" selection-end-column="35" />
+            <state relative-caret-position="56">
+              <caret line="330" column="21" lean-forward="false" selection-start-line="330" selection-start-column="21" selection-end-line="330" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#11774#11782#0" expanded="true" />
@@ -85,7 +455,7 @@
       <file leaf-file-name="tickets.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/tickets.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32300">
+            <state relative-caret-position="-5715">
               <caret line="1615" column="19" lean-forward="false" selection-start-line="1615" selection-start-column="19" selection-end-line="1615" selection-end-column="19" />
               <folding />
             </state>
@@ -107,8 +477,8 @@
       <file leaf-file-name="Stock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Stock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2840">
-              <caret line="157" column="8" lean-forward="false" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
+            <state relative-caret-position="127">
+              <caret line="113" column="11" lean-forward="false" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -151,8 +521,8 @@
       <file leaf-file-name="Connection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Connection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="32" column="109" lean-forward="false" selection-start-line="32" selection-start-column="109" selection-end-line="32" selection-end-column="109" />
+            <state relative-caret-position="296">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -186,7 +556,7 @@
       <file leaf-file-name="HttpConnection.class" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/src/lib/jsoup-1.11.2.jar!/org/jsoup/helper/HttpConnection.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4900">
+            <state relative-caret-position="127">
               <caret line="300" column="0" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
               <folding>
                 <marker date="1517815882000" expanded="false" signature="0:104" ph="/.../" />
@@ -417,7 +787,6 @@
       <find>50431</find>
       <find>StocksTest</find>
       <find>getData2excel</find>
-      <find>for</find>
       <find>error</find>
       <find>close_diff</find>
       <find>0700.hk</find>
@@ -427,12 +796,16 @@
       <find>070.HK.</find>
       <find>8348.HK</find>
       <find>int0700</find>
+      <find>for</find>
     </findStrings>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -451,8 +824,8 @@
         <option value="$PROJECT_DIR$/src/sample/Main.java" />
         <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
         <option value="$PROJECT_DIR$/xml2.txt" />
-        <option value="$PROJECT_DIR$/src/sample/Connection.java" />
         <option value="$PROJECT_DIR$/src/sample/Stock.java" />
+        <option value="$PROJECT_DIR$/src/sample/Connection.java" />
         <option value="$PROJECT_DIR$/src/sample/Controller2.java" />
       </list>
     </option>
@@ -467,8 +840,9 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="812" />
+    <option name="height" value="810" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -544,14 +918,15 @@
     <property name="SearchEverywhereHistoryKey" value="close project&#9;ACTION&#9;CloseProject&#10;close projec&#9;ACTION&#9;CloseProject&#10;close pro&#9;ACTION&#9;CloseProject&#10;abstract&#9;PSI&#9;JAVA://com.sun.corba.se.impl.presentation.rmi.DynamicMethodMarshallerImpl#abstractInterfaceRW" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\aaronyychen\Documents\NetBeansProjects\untitled\resources" />
-      <recent name="C:\Users\aaronyychen\Documents\NetBeansProjects\untitled\src\sample" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HKstks" />
       <recent name="C:\Users\aaronyychen\Documents\NetBeansProjects\untitled" />
       <recent name="C:\Users\aaronyychen\Documents\NetBeansProjects\untitled\resources" />
       <recent name="C:\Users\aaronyychen\Documents\NetBeansProjects\untitled\src\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aaronyychen\Documents\NetBeansProjects\untitled\resources" />
+      <recent name="C:\Users\aaronyychen\Documents\NetBeansProjects\untitled\src\sample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -742,15 +1117,16 @@
       <workItem from="1525079941398" duration="2629000" />
       <workItem from="1525136325933" duration="19450000" />
       <workItem from="1532959528994" duration="2240000" />
-      <workItem from="1534498013831" duration="787000" />
+      <workItem from="1534498013831" duration="2820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156634000" />
+    <option name="totallyTimeSpent" value="158667000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="810" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -760,8 +1136,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37972972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38075882" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1171,9 +1547,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jsoup-1.11.2.jar!/org/jsoup/Jsoup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <marker date="1517815882000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517815882000" expanded="false" signature="133:478" ph="..." />
+            <marker date="1517815882000" expanded="true" signature="521:528" ph="{}" />
+            <marker date="1517815882000" expanded="false" signature="591:602" ph=" { " />
+            <marker date="1517815882000" expanded="false" signature="637:643" ph=" }" />
+            <marker date="1517815882000" expanded="true" signature="722:778" ph="{...}" />
+            <marker date="1517815882000" expanded="false" signature="825:836" ph=" { " />
+            <marker date="1517815882000" expanded="false" signature="866:872" ph=" }" />
+            <marker date="1517815882000" expanded="false" signature="922:933" ph=" { " />
+            <marker date="1517815882000" expanded="false" signature="968:974" ph=" }" />
+            <marker date="1517815882000" expanded="true" signature="1073:1136" ph="{...}" />
+            <marker date="1517815882000" expanded="true" signature="1219:1295" ph="{...}" />
+            <marker date="1517815882000" expanded="true" signature="1401:1464" ph="{...}" />
+            <marker date="1517815882000" expanded="true" signature="1585:1656" ph="{...}" />
+            <marker date="1517815882000" expanded="true" signature="1736:1803" ph="{...}" />
+            <marker date="1517815882000" expanded="false" signature="1866:1877" ph=" { " />
+            <marker date="1517815882000" expanded="false" signature="1923:1929" ph=" }" />
+            <marker date="1517815882000" expanded="true" signature="2011:2134" ph="{...}" />
+            <marker date="1517815882000" expanded="true" signature="2221:2424" ph="{...}" />
+            <marker date="1517815882000" expanded="false" signature="2494:2505" ph=" { " />
+            <marker date="1517815882000" expanded="false" signature="2543:2549" ph=" }" />
+            <marker date="1517815882000" expanded="true" signature="2667:2916" ph="{...}" />
+            <marker date="1517815882000" expanded="true" signature="2990:3064" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/src/lib/jsoup-1.11.2.jar!/org/jsoup/helper/HttpConnection.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4900">
+        <state relative-caret-position="127">
           <caret line="300" column="0" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
           <folding>
             <marker date="1517815882000" expanded="false" signature="0:104" ph="/.../" />
@@ -1351,35 +1759,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/src/lib/jsoup-1.11.2.jar!/org/jsoup/Jsoup.class">
+    <entry file="file://$PROJECT_DIR$/src/sample/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1517815882000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1517815882000" expanded="false" signature="133:478" ph="..." />
-            <marker date="1517815882000" expanded="true" signature="521:528" ph="{}" />
-            <marker date="1517815882000" expanded="false" signature="591:602" ph=" { " />
-            <marker date="1517815882000" expanded="false" signature="637:643" ph=" }" />
-            <marker date="1517815882000" expanded="true" signature="722:778" ph="{...}" />
-            <marker date="1517815882000" expanded="false" signature="825:836" ph=" { " />
-            <marker date="1517815882000" expanded="false" signature="866:872" ph=" }" />
-            <marker date="1517815882000" expanded="false" signature="922:933" ph=" { " />
-            <marker date="1517815882000" expanded="false" signature="968:974" ph=" }" />
-            <marker date="1517815882000" expanded="true" signature="1073:1136" ph="{...}" />
-            <marker date="1517815882000" expanded="true" signature="1219:1295" ph="{...}" />
-            <marker date="1517815882000" expanded="true" signature="1401:1464" ph="{...}" />
-            <marker date="1517815882000" expanded="true" signature="1585:1656" ph="{...}" />
-            <marker date="1517815882000" expanded="true" signature="1736:1803" ph="{...}" />
-            <marker date="1517815882000" expanded="false" signature="1866:1877" ph=" { " />
-            <marker date="1517815882000" expanded="false" signature="1923:1929" ph=" }" />
-            <marker date="1517815882000" expanded="true" signature="2011:2134" ph="{...}" />
-            <marker date="1517815882000" expanded="true" signature="2221:2424" ph="{...}" />
-            <marker date="1517815882000" expanded="false" signature="2494:2505" ph=" { " />
-            <marker date="1517815882000" expanded="false" signature="2543:2549" ph=" }" />
-            <marker date="1517815882000" expanded="true" signature="2667:2916" ph="{...}" />
-            <marker date="1517815882000" expanded="true" signature="2990:3064" ph="{...}" />
-          </folding>
+        <state relative-caret-position="296">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1393,25 +1777,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="32" column="109" lean-forward="false" selection-start-line="32" selection-start-column="109" selection-end-line="32" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2840">
-          <caret line="157" column="8" lean-forward="false" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
+        <state relative-caret-position="127">
+          <caret line="113" column="11" lean-forward="false" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/tickets.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32300">
+        <state relative-caret-position="-5715">
           <caret line="1615" column="19" lean-forward="false" selection-start-line="1615" selection-start-column="19" selection-end-line="1615" selection-end-column="19" />
           <folding />
         </state>
@@ -1419,8 +1795,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Controller2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="332" column="35" lean-forward="true" selection-start-line="332" selection-start-column="35" selection-end-line="332" selection-end-column="35" />
+        <state relative-caret-position="56">
+          <caret line="330" column="21" lean-forward="false" selection-start-line="330" selection-start-column="21" selection-end-line="330" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#11774#11782#0" expanded="true" />

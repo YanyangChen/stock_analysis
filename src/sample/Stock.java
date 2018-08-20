@@ -157,24 +157,27 @@ try     {org.jsoup.nodes.Document doc = Jsoup.parse(Connection.cntAndGetString("
         if(sheet.getLastRowNum()>0){  // only update for stocks with data
         String lastday = sheet.getRow(sheet.getLastRowNum()).getCell(1).getStringCellValue();
         System.out.println("sheet.getLastRowNum()).getCell(1).getStringCellValue() :" + lastday);
-
-        Calendar cal1 = new GregorianCalendar();
-        Calendar cal2 = new GregorianCalendar();
-        Date date = null;
-        SimpleDateFormat sdf = new SimpleDateFormat("MMM-dd-yyyy");
+        if(!lastday.contains("feedbac") && !lastday.contains("HK")) {
+            Calendar cal1 = new GregorianCalendar();
+            Calendar cal2 = new GregorianCalendar();
+            Date date = null;
+            SimpleDateFormat sdf = new SimpleDateFormat("MMM-dd-yyyy");
 //        lastday.replace(" ","-");
 //        lastday.replace(",","");
-        date = sdf.parse(lastday);
-        cal1.setTime(date);
-        cal2.setTime(new Date());
-        if(sheet.getLastRowNum() != 0) {
-            System.out.println("rows available :" + sheet.getLastRowNum());
-            System.out.println("lastday :" + sheet.getRow(sheet.getLastRowNum() - 1).getCell(1).getStringCellValue());
-            System.out.println(" cal1.setTime(date); :" + cal1.getTime());
-            System.out.println(" daysBetween :" + Update.daysBetween(cal1.getTime(), cal2.getTime()));
-            int step = (Update.daysBetween(cal1.getTime(), cal2.getTime())) * 3600 * 24;
-            udt_endate = Update.todaysecs;
-            udt_startdate = udt_endate - step;
+
+            date = sdf.parse(lastday);
+
+            cal1.setTime(date);
+            cal2.setTime(new Date());
+            if (sheet.getLastRowNum() >= 2) {
+                System.out.println("rows available :" + sheet.getLastRowNum());
+                System.out.println("lastday :" + sheet.getRow(sheet.getLastRowNum() - 1).getCell(1).getStringCellValue());
+                System.out.println(" cal1.setTime(date); :" + cal1.getTime());
+                System.out.println(" daysBetween :" + Update.daysBetween(cal1.getTime(), cal2.getTime()));
+                int step = (Update.daysBetween(cal1.getTime(), cal2.getTime())) * 3600 * 24;
+                udt_endate = Update.todaysecs;
+                udt_startdate = udt_endate - step;
+            }
         }
         }
         fs.close();
