@@ -320,7 +320,7 @@ public class Controller2 implements Initializable{
         }
 
         @FXML protected void StocksTest(ActionEvent event) throws Exception {
-        for(int i = 1581; i <1949; i++){
+        for(int i = 1; i <1949; i++){
          Stock stk = new Stock(stks.get(i));
          stk.getStock2Excel();
 //         stk.update();
